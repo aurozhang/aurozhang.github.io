@@ -20,6 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION 
+
 I am currently a fifth-year Ph.D.student at MIT at the Institute for Data, Systems, and Society. My research is focused on fair decision-making, models of structural/systemic injustice, and the dynamics of inequality, particularly focusing on the racial wealth gap. I am also interested in algorithmic fairness and mechanism design for social good. Primarily I use agent-based simulation and economic models to investigate the long-term distributive outcomes of public policy. 
 
 I am advised by Prof. Peko Hosoi and am also in Prof. Catherine D'Ignazio's lab. 
