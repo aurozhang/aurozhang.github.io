@@ -20,14 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am currently a fifth-year Ph.D. student at MIT majoring in Electrical Engineering and Computer Science.
-My research focuses on machine learning and developing robust and efficient algorithms driven by clinical problems.
-Applications include motion-robust 3D rendering of the human brain, real-time quality assessment in MR scans as well as pose estimation and motion characterization of fetuses.
-I am advised by Prof. [Elfar Adalsteinsson](https://www.rle.mit.edu/people/directory/elfar-adalsteinsson/) and collaborate closely with Prof. [Polina Golland](https://people.csail.mit.edu/polina/) and Prof. [P. Ellen Grant](https://scholar.google.com/citations?user=W4dqZ7EAAAAJ).
+I am currently a fifth-year Ph.D.student at MIT at the Institute for Data, Systems, and Society. My research is focused on fair decision-making, models of structural/systemic injustice, and the dynamics of inequality, particularly focusing on the racial wealth gap. I am also interested in algorithmic fairness and mechanism design for social good. Primarily I use agent-based simulation and economic models to investigate the long-term distributive outcomes of public policy. 
 
-I also did summer internships at Google and Meta, working on automated Ads bidding and large-scale video recommendation systems respectively.
+I am advised by Prof. Peko Hosoi and am also in Prof. Catherine D'Ignazio's lab. 
 
-Prior to MIT, I received my Bachelor's degree from Tsinghua University in 2018. I also spent a summer as a research assistant at Stanford, where I was advised by Prof. [John Pauly](https://web.stanford.edu/~pauly/) and Prof. [Greg Zaharchuk](https://profiles.stanford.edu/greg-zaharchuk).
+Prior to MIT, I received my Bachelor's degree from Pomona College in mathematics in 2019. I also spent a summer as a research assistant at North Carolina State, advised by Dr. Min Chi.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
