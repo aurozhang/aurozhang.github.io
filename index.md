@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at the Massachusetts Institute of Technology.
+
+## CV
+
+My CV can be found [here].
 
 ## Research Interests
 
