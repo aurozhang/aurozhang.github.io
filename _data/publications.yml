@@ -1,7 +1,4 @@
 main:
-
-  - title:
-
   
   - title: Structural interventions and the dynamics of inequality
     authors: Aurora Zhang, A.E. Hosoi* (*Corresponding authors)
@@ -13,13 +10,18 @@ main:
     #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Redress and worldmaking: Differing approaches to algorithmic reparations for housing justice
+    authors: Aurora Zhang
+    journal: Big Data & Society
+    link: https://journals.sagepub.com/doi/full/10.1177/20539517231202983
+
+  #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #  authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #  conference_short: CVPR
+  #  conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #  pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #  code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #  page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  notes: Oral Presentation
+  #  image: ./assets/img/teaser_example.png
