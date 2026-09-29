@@ -6,16 +6,15 @@ layout: homepage
 
 I am a recent Ph.D. graduate from the Massachusetts Institute of Technology, at the Institute for Data, Systems, and Society. My research uses quantitative models, particularly causal inference, macroeconomic heterogeneous agent consumption models, and agent-based models to understand the effects of policies and technologies on social and economic inequality, particularly wealth accumulation and labor inequality. My dissertation work is focused in particular on racial wealth inequality as well as the ways that developments in predictive AI can widen individual and community disparities in housing and policing.
 
-Starting in Fall 2026, I will be a postdoc at the Senseable City Lab at MIT working on a project that evaluates the effectiveness of facial recognition technology. I will be on the academic job market this fall.
-
-## CV
-
-My CV can be found [here].
+Starting in Fall 2026, I will be a postdoc at the Senseable City Lab at MIT working on a project that evaluates the effectiveness of facial recognition technology.
 
 ## Research Interests
 
-- **Wealth Inequality:** 
-- **Social Impacts of AI:**
+- **Wealth Inequality**
+- **AI Effects on Labor Market**
+- **Social Impacts of AI**
+- **Systemic Racial and Gender Discrimination**
+- **Feminist and Political Philosophy**
 
 ## Recent News
 
